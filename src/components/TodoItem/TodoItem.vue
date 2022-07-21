@@ -51,7 +51,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "@/styles/constants.scss";
+@import "@/style/constants.scss";
 
 .todo-complete-btn {
   background: #ffffff;

@@ -28,7 +28,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "@/styles/constants.scss";
+@import "@/style/constants.scss";
 
 .check-arrow > path {
   stroke: $blueColor;

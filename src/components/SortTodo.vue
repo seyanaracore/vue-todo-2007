@@ -35,7 +35,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "@/styles/constants.scss";
+@import "@/style/constants.scss";
 .sort__title {
   margin-right: 15px;
 }

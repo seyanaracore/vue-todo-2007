@@ -58,7 +58,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import "@/styles/constants.scss";
+@import "@/style/constants.scss";
 
 .no-todos-title {
   text-align: center;

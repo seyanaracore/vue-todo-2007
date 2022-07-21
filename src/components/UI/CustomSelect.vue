@@ -54,7 +54,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "@/styles/constants.scss";
+@import "@/style/constants.scss";
 .custom-select {
   position: relative;
   text-align: left;

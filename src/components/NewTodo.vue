@@ -66,7 +66,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "@/styles/constants.scss";
+@import "@/style/constants.scss";
 
 .todo-title-container {
   width: 100%;

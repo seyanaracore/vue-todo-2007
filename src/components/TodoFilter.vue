@@ -27,7 +27,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import "@/styles/constants.scss";
+@import "@/style/constants.scss";
 
 .todo-filter-container {
   width: 100%;
