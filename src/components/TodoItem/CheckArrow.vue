@@ -5,7 +5,6 @@
     viewBox="0 0 10 11"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
-    v-if="isCompleted"
     class="check-arrow"
   >
     <path
@@ -18,13 +17,7 @@
 </template>
 
 <script>
-export default {
-  props: {
-    isCompleted: {
-      type: Boolean,
-    },
-  },
-};
+export default {};
 </script>
 
 <style lang="scss" scoped>

@@ -6,7 +6,7 @@
         :class="todoItem.completed ? 'completed' : ''"
         @click="$store.commit('todoComplete', todoItem)"
       >
-        <check-arrow :isCompleted="todoItem.completed" />
+        <check-arrow v-if="todoItem.completed" />
       </button>
     </td>
     <td class="table__col">
